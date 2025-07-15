@@ -52,6 +52,8 @@ export function HeroSection() {
               height={1000}
               className="h-auto w-full rounded-xl object-contain mix-blend-lighten"
               priority
+              placeholder="blur"
+              blurDataURL="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwMCIgaGVpZ2h0PSIxMDAwIiB2aWV3Qm94PSIwIDAgMTAwMCAxMDAwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjEwMDAiIGZpbGw9InRyYW5zcGFyZW50Ii8+PC9zdmc+"
             />
           </div>
         </div>
